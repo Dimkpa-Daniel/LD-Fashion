@@ -1,0 +1,55 @@
+ 
+ 
+ 
+ [
+    {
+        "name": "Nike",
+        "nickname": "D-Ni",
+        "tag": "NK",
+        "price": 550000 ,
+        "imgSrc": "nike.png",
+        "inCart": 0,
+        "id": "1"
+    },
+    {
+        "name": "White Shirt",
+        "nickname": "White S",
+        "tag": "WS",
+        "price": 700000,
+        "imgSrc": "h.png",
+        "inCart": 0,
+        "id": "2"
+    },
+    {
+        "name": "Black Suit",
+        "nickname": "SuitBlack",
+        "tag": "SB",
+        "price": 1000000,
+        "imgSrc": "p.png",
+        "inCart": 0,
+        "id": "3"
+    },
+    {
+        "name": "Shirt 1",
+        "nickname": "D-Shirt1",
+        "tag": "S1",
+        "price": 1500000,
+        "imgSrc": "shirt.png",
+        "inCart": 0,
+        "id": "4"
+    },
+    {
+        "name": "Shirt 2",
+        "nickname": "D-Shirt2",
+        "tag": "S2",
+        "price": 650000,
+        "imgSrc": "shirt.png",
+        "inCart": 0,
+        "id": "5"
+    }
+]
+
+
+
+
+
